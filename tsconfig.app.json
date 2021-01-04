@@ -7,6 +7,7 @@
   },
   "files": [
     "src/main.ts",
+    "src/main2.ts",
     "src/polyfills.ts"
   ],
   "include": [
